@@ -1,3 +1,10 @@
+**Reporte de Gestión de Pagos y Facturación_dashboard**
+
+**Link Power BI web (archivo dinamico):**
+
+https://app.powerbi.com/view?r=eyJrIjoiNjQyOGIwOWUtZGI3ZC00N2JhLWIyMDgtM2ZmOGY5MTlkNWI
+0IiwidCI6IjZjYTM0YWUxLTQ2NmYtNDRiYy1hN2FhLTBhYzVhNzhjNjFiMSIsImMiOjR9
+
 **Introducción:**
 La base de datos “Herramientas de Visualización” contiene información relevante sobre el ciclo de
 facturación y pagos de una empresa. La información disponible (incluyendo compañías, sucursales,
@@ -144,7 +151,4 @@ establecer planes de regularización. Asimismo, se sugiere realizar un análisis
 actualizado y aplicar políticas de facturación más estrictas para estos clientes en el futuro
 cercano.
 
-**Link Power BI web (archivo dinamico):**
 
-https://app.powerbi.com/view?r=eyJrIjoiNjQyOGIwOWUtZGI3ZC00N2JhLWIyMDgtM2ZmOGY5MTlkNWI
-0IiwidCI6IjZjYTM0YWUxLTQ2NmYtNDRiYy1hN2FhLTBhYzVhNzhjNjFiMSIsImMiOjR9
