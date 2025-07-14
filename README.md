@@ -141,3 +141,4 @@ Este reporte facilita la toma de decisiones estratégicas en áreas de **finanza
 - Identificar puntos críticos en la operación de cobranza.
 - Optimizar la eficiencia por sucursal y cliente.
 
+![Vista del Dashboard](Dashboard%20screenshot.jpg)
