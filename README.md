@@ -8,6 +8,8 @@
 
 Este dashboard interactivo fue desarrollado a partir de la base de datos **“Herramientas de Visualización”**, que contiene información clave del ciclo de facturación y pagos de una empresa. Permite un análisis visual y detallado del comportamiento financiero, enfocado en pagos, mora y facturación por compañía, sucursal o cliente.
 
+Dashboard:
+
 ![Vista del Dashboard](Dashboard%20screenshot.jpg)
 
 ---
